@@ -24,6 +24,7 @@ Activity 4:
 Activity 5:
 
 Functional  Requirement: The option to search across all course years
+
 How I would improve it:
 
 Provide an any option in the course year drop down, after which it will search all courses first by code, then title, and then by description for the string provided as the search field likely already does.
@@ -32,4 +33,5 @@ Provide an any option in the course year drop down, after which it will search a
 Non-Functional Requirement to change: predictive search in the search bar
 
 How I would improve it:
+
 Either by downloading a library that provides auto-suggest for searching functionality, or by hard coding in some tags or prefixes for courses and have that pop up in the drop down menu.
