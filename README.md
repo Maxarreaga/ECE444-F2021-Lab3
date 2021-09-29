@@ -17,4 +17,15 @@ Activity 3:
 
 Activity 4:
 
-![image](https://user-images.githubusercontent.com/34686490/135359208-0a00ac46-5a5d-4634-837b-139c089029a9.png)
+![image](https://user-images.githubusercontent.com/34686490/135359423-1ca169b6-d63f-4ca5-87cf-3a1fd22230bf.png)
+
+
+
+Activity 5:
+
+Functional  Requirement:
+How I would improve it:
+
+
+Non-Functional Requirement to change:
+How I would improve it:
