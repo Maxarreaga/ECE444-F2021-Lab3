@@ -11,6 +11,10 @@ Activity 2:
 
 ![image](https://user-images.githubusercontent.com/34686490/135358714-8d7a5843-80ec-4b20-9805-bc015050c6b1.png)
 
-Activtiy 3: 
+Activity 3: 
 
 ![image](https://user-images.githubusercontent.com/34686490/135359089-71ff0d07-0e96-4563-9c6f-310c7f9c668b.png)
+
+Activity 4:
+
+![image](https://user-images.githubusercontent.com/34686490/135359208-0a00ac46-5a5d-4634-837b-139c089029a9.png)
